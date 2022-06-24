@@ -1,0 +1,17 @@
+.fondo{
+background: rgb(238,218,174);
+background: radial-gradient(circle, rgba(238,218,174,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.fuente{
+    font-family: 'Beau Rivage', cursive;
+}
+
+header{
+    position:fixed;
+    width: 100%;
+    
+}
+body{
+    position: sticky;
+}
